@@ -12,7 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("https://www.adventurebikerider.com/wp-content/uploads/2017/10/tumblr_o27c7fByaO1tchrkco1_500.gif");
+    background-image: url("https://i.gifer.com/embedded/download/MwcO.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -26,6 +26,10 @@
     padding: 20px;
     background: transparent;
     backdrop-filter: blur(15px);
+    /* background-image: url("https://i.pinimg.com/originals/e9/cf/a7/e9cfa71f02ff8e3504410e831d883cd7.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
 }
 .heading{
     color: rgb(221, 237, 9);
